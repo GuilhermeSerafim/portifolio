@@ -1,0 +1,5 @@
+.title__div {
+    display: flex;
+    margin: 0 2rem;
+    flex-direction: row-reverse;
+}
