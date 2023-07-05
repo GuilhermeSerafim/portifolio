@@ -12,10 +12,11 @@ body {
     line-height: 1;
 }
 
-ol, ul,li {
+ol, ul, li {
     list-style: none;
 }
-a{
+
+a {
     text-decoration: none;
     color: var(--cor-de-link);
 }   
