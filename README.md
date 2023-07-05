@@ -1,2 +1,3 @@
 # Challenge Portifolio
-![Marca para equipe de e-sports com astronauta (1)](https://github.com/GuilhermeSerafim/portifolio/assets/129989701/bc192f36-74f8-4b37-9556-d42bfa48ff31)
+![Portifolio](https://github.com/GuilhermeSerafim/portifolio/assets/129989701/57e07d07-20cb-4240-ab03-b4da89fcb6a5)
+
