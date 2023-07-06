@@ -2,7 +2,8 @@
     color: var(--cor-de-texto);
     font-size: 1rem;
     font-weight: 400;
-    width: 751px;
+    width: 747px;
     line-height: 18.76px;
     margin-bottom: 0.5rem;
+    text-align: justify;
 }

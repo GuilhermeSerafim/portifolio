@@ -1,0 +1,9 @@
+.skills__box {
+    padding: 1rem;
+}
+
+/*Criado para deixar o javascript no meio*/
+.skills__box-css {
+    width: 6.875rem;
+    text-align: center;
+}
