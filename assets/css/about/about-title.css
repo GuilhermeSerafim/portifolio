@@ -1,5 +1,5 @@
 .about__title {
-    color: #464646;
+    color: var(--cor-de-texto);
     font-size: 2rem;
     font-weight: bold;
     line-height: 37.57px;

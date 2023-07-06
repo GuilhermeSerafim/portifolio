@@ -1,7 +1,7 @@
 .title__bio {
     font-size: 52px;
     line-height: 61.05px;
-    color: #464646;
+    color: var(--cor-de-texto);
     font-weight: bold;
     margin-bottom: 1rem;
 }

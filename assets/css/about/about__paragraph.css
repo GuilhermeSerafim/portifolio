@@ -1,5 +1,5 @@
 .about__paragraph {
-    color: #464646;
+    color: var(--cor-de-texto);
     font-size: 1rem;
     font-weight: 400;
     width: 751px;

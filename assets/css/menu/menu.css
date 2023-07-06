@@ -1,6 +1,6 @@
 section.menu {
     align-items: center;
-    background-color: #f5f5f5;
+    background-color: var(--cor-de-fundo);
     display: flex;
     font-size: 16px;
     font-style: "Raleway";
