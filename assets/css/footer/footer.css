@@ -1,0 +1,7 @@
+.footer {
+    color: var(--cor-de-texto);
+    text-align: center;
+    font-size: 1rem;
+    font-weight: 500;
+    line-height: 18.78px;
+}

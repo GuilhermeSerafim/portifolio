@@ -1,0 +1,14 @@
+.formcontato__subtext {
+    color: var(--cor-de-texto);
+    font-size: 1rem;
+    font-weight: 500;
+    line-height: 20px;
+}
+
+.formcontato__subtext2 {
+    color: var(--cor-de-texto);
+    font-size: 1rem;
+    font-weight: 500;
+    line-height: 20px;
+    margin-bottom: 2rem;
+}

@@ -1,0 +1,14 @@
+.formcontato__textarea {
+    border: none;
+    border-bottom: 2px solid #C8C8C8;
+    display: block;
+    padding: 5px; 
+    margin-bottom: 2rem;
+    width: 100%;
+}
+
+.formcontato__textarea:focus {
+    outline: none; /* Remove a borda de foco do elemento */
+    border-top: none; /* Remove a borda superior */
+    border-bottom: 2px solid #2A7AE4; /* Adiciona a borda inferior azul quando estiver em foco */
+  }

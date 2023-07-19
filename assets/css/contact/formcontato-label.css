@@ -1,0 +1,8 @@
+.formcontato__label {
+    color: var(--cor-cinza);
+    display: block;
+    margin-top: 2rem;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 16px;
+}

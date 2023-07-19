@@ -1,0 +1,11 @@
+.formcontato__botao--enviar {
+    background-color: var(--cor-azul);
+    border: 1px;
+    border-radius: 5px;
+    color: var(--cor-de-fundo);
+    font-size: 16px;
+    font-weight: 400;
+    gap: 10px;
+    line-height: 18.78px;
+    padding: 16px;
+}
