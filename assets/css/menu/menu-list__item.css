@@ -1,8 +1,26 @@
 .menu__list__item {
     line-height: 18.78px;
-}
+    position: relative;
+  }
 
-.menu__list__item:hover {
-    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2);
+  .menu__list__item a {
+    text-decoration: none;
+    color: var(--cor-de-texto);
+    font-size: 16px;
+    font-weight: 500;
   }
   
+  .menu__list__item a::after {
+    content: "";
+    position: absolute;
+    bottom: -2px;
+    left: 0;
+    width: 0;
+    height: 2px;
+    background-color: var(--cor-azul);
+    transition: width 0.2s;
+  }
+  
+  .menu__list__item a:hover::after {
+    width: 50%;
+  }
