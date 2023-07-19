@@ -9,6 +9,9 @@
 
 }
 
+.all {
+    background-color: var(--cor-de-fundo);
+}
 body {
     box-sizing: border-box;
     background-color: var(--cor-de-fundo);
