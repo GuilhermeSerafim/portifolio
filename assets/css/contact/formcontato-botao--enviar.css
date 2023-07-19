@@ -8,4 +8,10 @@
     gap: 10px;
     line-height: 18.78px;
     padding: 16px;
+    transition: transform 0.2s ease-in-out;
 }
+
+.formcontato__botao--enviar:hover {
+    transform: scale(1.05);
+}
+  

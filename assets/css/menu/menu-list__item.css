@@ -1,3 +1,8 @@
 .menu__list__item {
     line-height: 18.78px;
 }
+
+.menu__list__item:hover {
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2);
+  }
+  

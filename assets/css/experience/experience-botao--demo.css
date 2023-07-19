@@ -8,4 +8,9 @@
     gap: 10px;
     line-height: 18.78px;
     padding: 16px;
+    transition: transform 0.2s ease-in-out;
+}
+
+.experience__botao--demo:hover {
+    transform: scale(1.05);
 }
