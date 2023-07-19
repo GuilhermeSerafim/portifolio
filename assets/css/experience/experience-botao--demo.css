@@ -1,11 +1,11 @@
-.experience__botao--repo {
-    border: 1px solid var(--cor-azul);
+.experience__botao--demo {
+    background-color: var(--cor-azul);
+    border: 1px;
     border-radius: 5px;
-    color: var(--cor-azul);
+    color: var(--cor-de-fundo);
     font-size: 16px;
     font-weight: 400;
     gap: 10px;
     line-height: 18.78px;
-    margin-right: 10px;
     padding: 16px;
 }

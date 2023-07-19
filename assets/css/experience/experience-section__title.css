@@ -1,0 +1,9 @@
+.experience__section__title {
+    color: var(--cor-de-texto);
+    font-size: 2rem;
+    font-weight: 700;
+    line-height: 37.57px;
+    text-align: center;
+    margin-top: 8rem;
+    margin-bottom: 4rem;
+}
